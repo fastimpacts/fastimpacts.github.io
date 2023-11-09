@@ -1,3 +1,2 @@
-# fastimpacts.github.io
-A really cool Natural Hazard Impact Assessment System 
 # !!! ----- Coming Soon ----- !!!
+A really cool Natural Hazard Impact Assessment System 
